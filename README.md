@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ZendSkeletonApplication
 =======================
 
@@ -116,3 +117,7 @@ it should look something like below:
     }
 
 Restart the nginx, now you should be ready to go!
+=======
+# SpotifIIE
+Zizik Le Bar(c)
+>>>>>>> 13603f8383f11af95222ff5bb9ad4eec67d774ec
